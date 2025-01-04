@@ -6,7 +6,7 @@
 
 ### 🌟 About Me:
 - **Passionate IT Student** from Aveiro, Portugal 🇵🇹.
-- I thrive on **transforming ideas into impactful solutions**.
+- I thrive on **transforming ideas into practical solutions**.
 - Embracing challenges with **creativity**, **curiosity**, and **innovation**.
 - Currently pursuing a Bachelor's in Information Technologies at [Universidade de Aveiro](https://www.ua.pt/pt/c/63/p).
 
