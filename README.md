@@ -1,4 +1,4 @@
-# Hi there, I'm Daniel Silva
+# 👋 Hi there, I'm Daniel Silva
 
 ## Welcome to my GitHub profile!
 
@@ -24,12 +24,6 @@
 
 #### **Other Tools**:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
----
-
-
-
-Here’s a more detailed description for each project to add to your GitHub README:
 
 ---
 
