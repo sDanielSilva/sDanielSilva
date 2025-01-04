@@ -35,15 +35,15 @@
 
 #### **JavaEats** 🍴  
 > JavaEats is a robust POS (Point of Sale) system for restaurants, designed to streamline reservation, table management, and payment processing. It enables efficient order taking, real-time updates on table status, and intuitive management of customer interactions. The system also generates reports and statistics to help restaurant managers optimize operations and improve customer experience.  
-[View on GitHub](https://github.com/lucasduarte2/JavaEats)
+[View on GitHub](https://github.com/sDanielSilva/JavaEats)
 
 #### **CodeWave** 🌊  
 > CodeWave is an all-in-one platform for managing an aquatic park, offering a variety of services such as ticket sales, rentals, accommodation bookings, and convenience store management. It also features an interactive map for navigating the park, live updates on events and activities, and control systems for park lighting. CodeWave aims to provide both visitors and administrators with an intuitive, real-time, and immersive experience.  
-[View on GitHub](https://github.com/lucasduarte2/CodeWave)
+[View on GitHub](https://github.com/sDanielSilva/CodeWave)
 
 #### **RiaAveiro** 🌍  
 > RiaAveiro is a Web GIS (Geographic Information System) platform dedicated to exploring the Ria de Aveiro region. It provides users with an interactive map, detailed information about points of interest, routes, distances, and live cameras showcasing the beauty of the area. Whether you're a tourist or a local, RiaAveiro helps you discover the region in an engaging, informative way.
-[View on GitHub](https://github.com/lucasduarte2/riaaveiro)
+[View on GitHub](https://github.com/sDanielSilva/riaaveiro)
 
 ---
 
@@ -56,8 +56,8 @@ Collaborative Online International Learning (COIL) project on "LiDAR analysis of
 
 ### 🌐 Connect With Me:
 - **Email**: [d.m.silva@ua.pt](mailto:d.m.silva@ua.pt)
-- **LinkedIn**: Coming Soon!
-- [View My CV](https://uapt33090-my.sharepoint.com/:b:/g/personal/d_m_silva_ua_pt/EYyacFrUMYNJsj8S02tZ-UIBJyHV57lNbvwQlqSt3Kyybw?e=ucuc7x)
+- [**LinkedIn**](https://www.linkedin.com/in/daniel-msilva/)
+- [**View My CV**](https://uapt33090-my.sharepoint.com/:b:/g/personal/d_m_silva_ua_pt/EYk6AFJbvvFBjGWTut-kmbsBOvTUpXkjyZo3AvcCakTh3g?e=NllqF6)
 
 ---
 
