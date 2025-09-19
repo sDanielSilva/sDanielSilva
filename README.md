@@ -67,9 +67,8 @@ Collaborative Online International Learning (COIL) project on "LiDAR analysis of
 ---
 
 ### 🌐 Connect With Me:
-- **Email**: [d.m.silva@ua.pt](mailto:d.m.silva@ua.pt) | [danielms@outlook.pt](mailto:danielms@outlook.pt)  
+- **Email**: [danielms@outlook.pt](mailto:danielms@outlook.pt)  
 - [**LinkedIn**](https://www.linkedin.com/in/daniel-msilva/)  
-- [**View My CV**](https://uapt33090-my.sharepoint.com/:b:/g/personal/d_m_silva_ua_pt/EYk6AFJbvvFBjGWTut-kmbsBOvTUpXkjyZo3AvcCakTh3g?e=NllqF6)
 
 ---
 
